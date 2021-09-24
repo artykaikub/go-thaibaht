@@ -5,7 +5,7 @@ go-thaibaht is a simple library for convert number to thai baht as text
 
 ## Installation
 ```bash
-go get -u github.com/artykaikub/go-thaibaht
+go get github.com/artykaikub/go-thaibaht
 ```
 
 ## Example
@@ -14,7 +14,7 @@ package main
 
 import (
 	"log"
-	"github.com/artykaikub/go-thaibaht"
+	gothaibaht "github.com/artykaikub/go-thaibaht"
 )
 
 func main() {
